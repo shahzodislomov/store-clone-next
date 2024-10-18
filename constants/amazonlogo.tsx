@@ -1,0 +1,1 @@
+export const amazonlogo: string = "https://clone-f50ae.web.app/assets/icons/logo.png"
